@@ -3,3 +3,5 @@
  touch tekst.txt
  git add .
  git commit -m "Początek projektu"
+
+Punkt 6. | 13:18
