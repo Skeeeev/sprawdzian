@@ -1,0 +1,134 @@
+diff --git a/Punkt8.jpg b/Punkt8.jpg
+new file mode 100644
+index 0000000..15d79b2
+Binary files /dev/null and b/Punkt8.jpg differ
+diff --git a/brudnopis.txt b/brudnopis.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/punkt9.txt b/punkt9.txt
+new file mode 100644
+index 0000000..1849bda
+--- /dev/null
++++ b/punkt9.txt
+@@ -0,0 +1 @@
++13:23
+\ No newline at end of file
+diff --git a/tekst.txt b/tekst.txt
+index 8de8b29..0ff0590 100644
+--- a/tekst.txt
++++ b/tekst.txt
+@@ -2,4 +2,6 @@
+  mkdir Spr_git_Aleksandra_Szczepańska
+  touch tekst.txt
+  git add .
+:...skipping...
+diff --git a/Punkt8.jpg b/Punkt8.jpg
+new file mode 100644
+index 0000000..15d79b2
+Binary files /dev/null and b/Punkt8.jpg differ
+diff --git a/brudnopis.txt b/brudnopis.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/punkt9.txt b/punkt9.txt
+new file mode 100644
+index 0000000..1849bda
+--- /dev/null
++++ b/punkt9.txt
+@@ -0,0 +1 @@
++13:23
+\ No newline at end of file
+diff --git a/tekst.txt b/tekst.txt
+index 8de8b29..0ff0590 100644
+--- a/tekst.txt
++++ b/tekst.txt
+@@ -2,4 +2,6 @@
+  mkdir Spr_git_Aleksandra_Szczepańska
+  touch tekst.txt
+  git add .
+- git commit -m "Początek projektu"
+\ No newline at end of file
++ git commit -m "Początek projektu"
++
++Punkt 6. | 13:18
+\ No newline at end of file
+diff --git a/wariant1.txt b/wariant1.txt
+deleted file mode 100644
+index 348a40c..0000000
+:
+diff --git a/Punkt8.jpg b/Punkt8.jpg
+new file mode 100644
+index 0000000..15d79b2
+Binary files /dev/null and b/Punkt8.jpg differ
+diff --git a/brudnopis.txt b/brudnopis.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/punkt9.txt b/punkt9.txt
+new file mode 100644
+index 0000000..1849bda
+--- /dev/null
++++ b/punkt9.txt
+@@ -0,0 +1 @@
++13:23
+\ No newline at end of file
+diff --git a/tekst.txt b/tekst.txt
+index 8de8b29..0ff0590 100644
+--- a/tekst.txt
++++ b/tekst.txt
+@@ -2,4 +2,6 @@
+  mkdir Spr_git_Aleksandra_Szczepańska
+  touch tekst.txt
+  git add .
+- git commit -m "Początek projektu"
+\ No newline at end of file
++ git commit -m "Początek projektu"
++
++Punkt 6. | 13:18
+\ No newline at end of file
+diff --git a/wariant1.txt b/wariant1.txt
+deleted file mode 100644
+index 348a40c..0000000
+:...skipping...
+diff --git a/Punkt8.jpg b/Punkt8.jpg
+new file mode 100644
+index 0000000..15d79b2
+Binary files /dev/null and b/Punkt8.jpg differ
+diff --git a/brudnopis.txt b/brudnopis.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/punkt9.txt b/punkt9.txt
+new file mode 100644
+index 0000000..1849bda
+--- /dev/null
++++ b/punkt9.txt
+@@ -0,0 +1 @@
++13:23
+\ No newline at end of file
+diff --git a/tekst.txt b/tekst.txt
+index 8de8b29..0ff0590 100644
+--- a/tekst.txt
++++ b/tekst.txt
+@@ -2,4 +2,6 @@
+  mkdir Spr_git_Aleksandra_Szczepańska
+  touch tekst.txt
+  git add .
+- git commit -m "Początek projektu"
+\ No newline at end of file
++ git commit -m "Początek projektu"
++
++Punkt 6. | 13:18
+\ No newline at end of file
+diff --git a/wariant1.txt b/wariant1.txt
+deleted file mode 100644
+index 348a40c..0000000
+--- a/wariant1.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-78550a51b0c72e2af41cc54c956c3387ab4b6571
+\ No newline at end of file
+diff --git a/wariant2.txt b/wariant2.txt
+new file mode 100644
+index 0000000..d88ac80
+--- /dev/null
++++ b/wariant2.txt
+@@ -0,0 +1 @@
++Wersja pierwsza
