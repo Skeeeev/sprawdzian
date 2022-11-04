@@ -1,0 +1,5 @@
+ cd documents
+ mkdir Spr_git_Aleksandra_Szczepańska
+ touch tekst.txt
+ git add .
+ git commit -m "Początek projektu"
